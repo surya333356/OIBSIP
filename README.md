@@ -87,9 +87,26 @@ minimum spent in beauty category.
 # EDA Charts-
 ![image](https://github.com/user-attachments/assets/82bc6fc7-0316-4d68-a00a-d258fc1445f1)
 
-![image](https://github.com/user-attachments/assets/1c26c2a1-c3ba-49f9-b597-6e9b2465f644!)
+![image](https://github.com/user-attachments/assets/202141f5-cf08-4461-91dc-4bd041842b79)
 
 ![image](https://github.com/user-attachments/assets/650f0fb2-96fd-4488-ae54-71c9725c1aee)
+
+![image](https://github.com/user-attachments/assets/70d83c23-6826-4e2a-a868-e26b41cb4e5b)
+
+![image](https://github.com/user-attachments/assets/95bdc580-484f-4c5d-b935-90de6b370616)
+
+![image](https://github.com/user-attachments/assets/c2d7160b-7502-4a24-bf5c-34d3f904b32d)
+
+![image](https://github.com/user-attachments/assets/3e65871e-bd9a-46d0-a0a6-08588f127b8b)
+
+![image](https://github.com/user-attachments/assets/23fcdaf2-2d86-4911-ac2c-59260c8bf07f)
+
+
+
+
+
+
+
 
 
 
