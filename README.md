@@ -1,5 +1,7 @@
 # OIBSIP Task-1
 # Retail Sales EDA Project
+![image](https://github.com/user-attachments/assets/35521da9-04e7-4202-a1b8-08a0d45aee2d)
+
 # Project Summary -
 
 Welcome to the Retail Sales and Customer Demographics Dataset! This synthetic dataset has been meticulously crafted to simulate a dynamic retail environment, providing an ideal playground for those eager to sharpen their data analysis skills through exploratory data analysis (EDA). With a focus on retail sales and customer characteristics, this dataset invites you to unravel intricate patterns, draw insights, and gain a deeper understanding of customer behavior.
@@ -83,6 +85,15 @@ minimum spent in beauty category.
 8.Focus on the strong positive correlation between Price per Unit and Total Amount when analyzing pricing strategies or sales performance.
 
 # EDA Charts-
+![image](https://github.com/user-attachments/assets/82bc6fc7-0316-4d68-a00a-d258fc1445f1)
+
+![image](https://github.com/user-attachments/assets/1c26c2a1-c3ba-49f9-b597-6e9b2465f644!)
+
+![image](https://github.com/user-attachments/assets/650f0fb2-96fd-4488-ae54-71c9725c1aee)
+
+
+
+
 
 
 
